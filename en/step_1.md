@@ -1,59 +1,33 @@
-## Introduction
+### Downloading your program to the micro:bit
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+To run your program on your physical micro:bit, you will need to download your program file to it.
 
-### What you will make
+--- task ---
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click on the `Download` button below the micro:bit simulator. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![the MakeCode editor showing the highlighted Download button](images/download-button.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+You will be asked to plug in your micro:bit. Do that now, then click **Continue**. 
+
+Click **Pair** and select your device from the list that appears, then click **Connect**.
+
+![The 'select micro:bit' dialog box showing a BBC micro:bit device.](images/select-microbit.png)
 
 --- collapse ---
+
 ---
-title: What you will need
+title: My micro:bit won't pair
 ---
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
+If your micro:bit won't pair using the method above, it will download the program for you. 
 
-### Software
+**Windows:** Open **File Explorer** and check that you can see `MICROBIT` under `This PC` on the left hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+**MacOS:** Open **Finder** and check that you can see `MICROBIT` under `Locations` on the left hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
 
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+If your micro:bit isn't showing up, try unplugging it and plugging it back in. You can also try a different USB port or USB cable if they are available.
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /task ---
