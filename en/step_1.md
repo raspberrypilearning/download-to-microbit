@@ -12,9 +12,7 @@ Click **Pair** and select your device from the list that appears, then click **C
 
 ![The 'select micro:bit' dialog box showing a BBC micro:bit device.](images/select-microbit.png)
 
-**Debug:**
-
-### My micro:bit won't pair
+**Debug:** My micro:bit won't pair
 
 If your micro:bit won't pair using the method above, it will download the program for you. 
 
