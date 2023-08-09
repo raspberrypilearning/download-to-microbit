@@ -2,8 +2,6 @@
 
 To run your program on your physical micro:bit, you will need to download your program file to it.
 
---- task ---
-
 Click on the `Download` button below the micro:bit simulator. 
 
 ![the MakeCode editor showing the highlighted Download button](images/download-button.png)
@@ -29,5 +27,3 @@ If your micro:bit won't pair using the method above, it will download the progra
 If your micro:bit isn't showing up, try unplugging it and plugging it back in. You can also try a different USB port or USB cable if they are available.
 
 --- /collapse ---
-
---- /task ---
