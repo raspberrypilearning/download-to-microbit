@@ -1,10 +1,10 @@
-### Downloading your program to the micro:bit
+### Download your program to the micro:bit
 
 To run your program on your physical micro:bit, you will need to download your program file to it.
 
 Click on the `Download` button below the micro:bit simulator. 
 
-![the MakeCode editor showing the highlighted Download button](images/download-button.png)
+![The MakeCode editor showing the highlighted Download button.](images/download-button.png)
 
 You will be asked to plug in your micro:bit. Do that now, then click **Continue**. 
 
