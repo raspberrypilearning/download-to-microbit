@@ -1,8 +1,6 @@
-### Download your program to the micro:bit
-
 To run your program on your physical micro:bit, you will need to download your program file to it.
 
-Click on the `Download` button below the micro:bit simulator.
+Click the **Download** button below the micro:bit simulator.
 
 ![The MakeCode editor showing the highlighted Download button.](images/download-button.png)
 
@@ -18,6 +16,6 @@ If your micro:bit isn't showing up, try unplugging it and plugging it back in. Y
 
 If your micro:bit doesn't pair you can use the **Download** button to download your program as a `.HEX` file. You can then move the program onto your micro:bit using your file system.
 
-**Windows:** Open **File Explorer** and check that you can see `MICROBIT` under `This PC` on the left hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**Windows:** Open **File Explorer** and check that you can see `MICROBIT` under `This PC` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
 
-**MacOS:** Open **Finder** and check that you can see `MICROBIT` under `Locations` on the left hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**macOS:** Open **Finder** and check that you can see `MICROBIT` under `Locations` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
