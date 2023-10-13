@@ -1,21 +1,21 @@
-To run your program on your physical micro:bit, you will need to download your program file to it.
+Για να εκτελέσεις το πρόγραμμά σου στο φυσικό σου micro:bit, θα χρειαστεί να κατεβάσεις το αρχείο του προγράμματος σε αυτό.
 
-Click the **Download** button below the micro:bit simulator.
+Κάνε κλικ στο κουμπί **Λήψη** κάτω από τον προσομοιωτή micro:bit.
 
-![The MakeCode editor showing the highlighted Download button.](images/download-button.png)
+![Το πρόγραμμα επεξεργασίας MakeCode εμφανίζει τονισμένο το κουμπί Λήψη.](images/download-button.png)
 
-You will be asked to plug in your micro:bit. Do that now, then click **Continue**.
+Θα σου ζητηθεί να συνδέσεις το micro:bit. Επίλεξε τη γλώσσα σου και κάνε κλικ στο **Συνέχεια**.
 
-Click **Pair** and select your device from the list that appears, then click **Connect**.
+Κάνε κλικ στο **Pair** και επίλεξε τη συσκευή σου από τη λίστα που εμφανίζεται και, στη συνέχεια, κάνε κλικ στο **Connect**.
 
-![The 'select micro:bit' dialog box showing a BBC micro:bit device.](images/select-microbit.png)
+![Το πλαίσιο διαλόγου "επιλογή micro:bit" που δείχνει μια συσκευή BBC micro:bit.](images/select-microbit.png)
 
-**Debug:** My micro:bit won't pair
+**Εντοπισμός σφαλμάτων:** Το micro:bit μου δεν θα κάνει ζεύξη
 
-If your micro:bit isn't showing up, try unplugging it and plugging it back in. You can also try a different USB port or USB cable if they are available.
+Εάν το micro:bit σου δεν εμφανίζεται, δοκίμασε να το αποσυνδέσεις και να το συνδέσεις ξανά. Μπορείς επίσης να δοκιμάσεις μια διαφορετική θύρα USB ή καλώδιο USB εάν είναι διαθέσιμα.
 
-If your micro:bit doesn't pair you can use the **Download** button to download your program as a `.HEX` file. You can then move the program onto your micro:bit using your file system.
+Εάν το micro:bit σου δεν πραγματοποιεί ζεύξη, μπορείς να χρησιμοποιήσεις το κουμπί **Λήψη** για να πραγματοποιήσεις λήψη του προγράμματός σου ως αρχείο `.HEX`. Στη συνέχεια, μπορείς να μεταφέρεις το πρόγραμμα στο micro:bit χρησιμοποιώντας το σύστημα αρχείων του υπολογιστή σου.
 
-**Windows:** Open **File Explorer** and check that you can see `MICROBIT` under `This PC` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**Windows:** Άνοιξε **Αναζήτηση** και έλεγξε ότι μπορείς να δεις `MICROBIT` κάτω από `Αυτός ο υπολογιστής` στην αριστερή πλευρά. Εάν υπάρχει, σύρε το αρχείο `.HEX` που κατέβασες σε αυτό, το πρόγραμμά σου θα αποθηκευτεί στο micro:bit και θα μπορείς να το χρησιμοποιήσεις.
 
-**macOS:** Open **Finder** and check that you can see `MICROBIT` under `Locations` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**macOS:** Άνοιξε **Finder** και έλεγξε ότι μπορείς να δεις `MICROBIT` κάτω από `Locations` στην αριστερή πλευρά. Εάν υπάρχει, σύρε το αρχείο `.HEX` που κατέβασες σε αυτό, το πρόγραμμά σου θα αποθηκευτεί στο micro:bit και θα μπορείς να το χρησιμοποιήσεις.
