@@ -1,21 +1,21 @@
-To run your program on your physical micro:bit, you will need to download your program file to it.
+I redeg eich rhaglen ar eich micro:bit corfforol, bydd angen i chi lawrlwytho ffeil eich rhaglen iddo.
 
-Click the **Download** button below the micro:bit simulator. 
+Cliciwch ar y botwm **Lawrlwytho** o dan yr efelychydd micro:bit.
 
-![The MakeCode editor showing the highlighted Download button.](images/download-button.png)
+![Golygydd MakeCode yn dangos y botwm Lawrlwytho wedi'i amlygu.](images/download-button.png)
 
-You will be asked to plug in your micro:bit. Do that now, then click **Continue**. 
+Bydd gofyn i chi blygio eich micro:bit i mewn. Gwnewch hynny nawr, yna cliciwch **Parhau**.
 
-Click **Pair** and select your device from the list that appears, then click **Connect**.
+Cliciwch **Pâr** a dewiswch eich dyfais o'r rhestr sy'n ymddangos, yna cliciwch ar **Cysylltu**.
 
-![The 'select micro:bit' dialog box showing a BBC micro:bit device.](images/select-microbit.png)
+![Y blwch deialog 'dewis micro:bit' yn dangos dyfais BBC micro:bit.](images/select-microbit.png)
 
-**Debug:** My micro:bit won't pair
+**Dadfygio:** Ni fydd fy micro:bit yn paru
 
-If your micro:bit isn't showing up, try unplugging it and plugging it back in. You can also try a different USB port or USB cable if they are available.
+Os nad yw eich micro:bit yn ymddangos, ceisiwch ei ddad-blygio a'i blygio yn ôl i mewn. Gallwch hefyd roi cynnig ar borth USB neu gebl USB gwahanol os ydynt ar gael.
 
-If your micro:bit doesn't pair you can use the **Download** button to download your program as a `.HEX` file. You can then move the program onto your micro:bit using your file system.
+Os nad yw eich micro:bit yn paru gallwch ddefnyddio'r botwm **Lawrlwytho** i lawrlwytho eich rhaglen fel ffeil `.HEX`. Yna gallwch chi symud y rhaglen i'ch micro:bit gan ddefnyddio'ch system ffeiliau.
 
-**Windows:** Open **File Explorer** and check that you can see `MICROBIT` under `This PC` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**Windows:** Agorwch **File Explorer** a gwiriwch eich bod chi'n gallu gweld `MICROBIT` o dan `This PC` ar yr ochr chwith. Os yw yno, llusgwch y ffeil `.HEX` sydd wedi'i lawrlwytho iddi, bydd eich rhaglen yn cael ei chadw i'ch micro:bit a dylech allu ei defnyddio.
 
-**macOS:** Open **Finder** and check that you can see `MICROBIT` under `Locations` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**macOS:** Agorwch **Finder** a gwiriwch eich bod chi'n gallu gweld `MICROBIT` o dan `Locations` ar yr ochr chwith. Os yw yno, llusgwch y ffeil `.HEX` sydd wedi'i lawrlwytho iddi, bydd eich rhaglen yn cael ei chadw i'ch micro:bit a dylech allu ei defnyddio.
