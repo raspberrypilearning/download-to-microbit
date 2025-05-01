@@ -1,21 +1,21 @@
-To run your program on your physical micro:bit, you will need to download your program file to it.
+Para ejecutar tu programa en tu micro:bit físico, necesitarás descargar el archivo de programa en él.
 
-Click the **Download** button below the micro:bit simulator.
+Haz clic en el botón **Descargar** debajo del simulador micro:bit.
 
-![The MakeCode editor showing the highlighted Download button.](images/download-button.png)
+![El editor MakeCode que muestra el botón Descargar resaltado.](images/download-button.png)
 
-You will be asked to plug in your micro:bit. Do that now, then click **Continue**.
+Se te pedirá que conectes tu micro:bit. Hazlo, luego haz clic en **Continuar**.
 
-Click **Pair** and select your device from the list that appears, then click **Connect**.
+Haz clic en **Pair** y selecciona tu dispositivo de la lista que aparece, luego haz clic en **Connect**.
 
-![The 'select micro:bit' dialog box showing a BBC micro:bit device.](images/select-microbit.png)
+![El cuadro de diálogo 'seleccionar micro:bit' que muestra un dispositivo BBC micro:bit.](images/select-microbit.png)
 
-**Debug:** My micro:bit won't pair
+**Depuración:** Mi micro:bit no se empareja
 
-If your micro:bit isn't showing up, try unplugging it and plugging it back in. You can also try a different USB port or USB cable if they are available.
+Si tu micro:bit no aparece, prueba a desconectarlo y conectarlo de nuevo. También puedes probar un puerto o un cable USB diferente, si están disponibles.
 
-If your micro:bit doesn't pair you can use the **Download** button to download your program as a `.HEX` file. You can then move the program onto your micro:bit using your file system.
+Si tu micro:bit no empareja, puedes usar el botón **Descargar** para descargar tu programa como un archivo `.HEX`. Luego puedes mover el programa a tu micro:bit usando tu sistema de archivos.
 
-**Windows:** Open **File Explorer** and check that you can see `MICROBIT` under `This PC` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**Windows:** Abre **Explorador de archivos** y verifica que puedas ver `MICROBIT` debajo de `Este PC` en el lado izquierdo. Si está allí, arrastra el archivo `.HEX` que descargaste hacia él, tu programa se guardará en tu micro:bit y deberías poder usarlo.
 
-**macOS:** Open **Finder** and check that you can see `MICROBIT` under `Locations` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**macOS:** Abre **Finder** y comprueba que puedes ver `MICROBIT` bajo `Ubicaciones` a la izquierda. Si está allí, arrastra el archivo `.HEX` que descargaste hacia él, tu programa se guardará en tu micro:bit y deberías poder usarlo.
