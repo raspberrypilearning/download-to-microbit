@@ -1,21 +1,21 @@
-To run your program on your physical micro:bit, you will need to download your program file to it.
+プログラムをmicro:bit本体で実行するには、プログラムファイルをmicro:bit本体にダウンロードする必要があります。
 
-Click the **Download** button below the micro:bit simulator.
+micro:bitシミュレーターの下にある**ダウンロード**ボタンをクリックします。
 
-![The MakeCode editor showing the highlighted Download button.](images/download-button.png)
+![MakeCodeエディタで、ダウンロードボタンがハイライト表示されています。](images/download-button.png)
 
-You will be asked to plug in your micro:bit. Do that now, then click **Continue**.
+micro:bitを接続するように求められます。 今すぐ実行し、 **次へ** をクリックします。
 
-Click **Pair** and select your device from the list that appears, then click **Connect**.
+**ペアリング** をクリックし、表示されたリストからデバイスを選択し、 **接続**をクリックします。
 
-![The 'select micro:bit' dialog box showing a BBC micro:bit device.](images/select-microbit.png)
+![BBC micro:bitデバイスが表示された「micro:bitを選択」ダイアログボックス。](images/select-microbit.png)
 
-**Debug:** My micro:bit won't pair
+**デバッグ:** micro:bitがペアリングできません
 
-If your micro:bit isn't showing up, try unplugging it and plugging it back in. You can also try a different USB port or USB cable if they are available.
+micro:bitが認識されない場合は、一度電源プラグを抜いてから再度差し込んでみてください。 可能であれば、別のUSBポートやUSBケーブルを試してみてください。
 
-If your micro:bit doesn't pair you can use the **Download** button to download your program as a `.HEX` file. You can then move the program onto your micro:bit using your file system.
+micro:bitがペアリングされない場合は、 **ダウンロード** ボタンを使用して、プログラムを `.HEX` ファイルとしてダウンロードできます。 その後、ファイルシステムを使用してプログラムをmicro:bitに移動できます。
 
-**Windows:** Open **File Explorer** and check that you can see `MICROBIT` under `This PC` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**Windows:**** ファイルエクスプローラー **を開き、 左側の `この PC` の下に `MICROBIT` が表示されていることを確認します。 もしあれば、ダウンロードした`.HEX`ファイルをそこにドラッグすると、プログラムがmicro:bitに保存され、使用できるようになります。
 
-**macOS:** Open **Finder** and check that you can see `MICROBIT` under `Locations` on the left-hand side. If it is there, drag the downloaded `.HEX` file to it, your program will be saved to your micro:bit and you should be able to use it.
+**macOS:** **Finder**を開き、左側の`場所`の下に`MICROBIT` が表示されていることを確認します。 もしあれば、ダウンロードした`.HEX`ファイルをそこにドラッグすると、プログラムがmicro:bitに保存され、使用できるようになります。
